@@ -164,17 +164,21 @@ def compute_cost(x_values, y_values, theta_0, theta_1):
 ```
 
 ## 1. 批量梯度下降法 Batch Gradient Descent
+
 $$
 \begin{gathered}
 repeat until convergence \{ \\
 \begin{aligned}\theta_j:=\theta_j-\alpha\frac{\partial}{\partial\theta_j}J(\theta_0,\theta_1)\end{aligned} \\
 \begin{aligned}  \} (\text{for }j=1\text{ and }j=0)\end{aligned} 
-\end{gathered} 
+\end{gathered}
 $$
+
 Repeat until convergence:
+
 $$
 \begin{aligned}\theta_0{:}&=\theta_0-a\frac1N\sum_{i=1}^N(f_\theta\big(x^{(i)}\big)-y^{(i)})\\\theta_1{:}&=\theta_1-a\frac1N\sum_{i=1}^N(f_\theta\big(x^{(i)}\big)-y^{(i)})x^{(i)}\end{aligned}
 $$
+
 ```python
 def gradient_descent(x_values, y_values, alpha=0.05, convergence_threshold=1e-8, max_iterations=10000):
     """
