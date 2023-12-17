@@ -165,12 +165,10 @@ def compute_cost(x_values, y_values, theta_0, theta_1):
 
 ## 1. 批量梯度下降法 Batch Gradient Descent
 
+repeat until convergence：
 $$
-\begin{gathered}
-repeat until convergence \{ \\
 \begin{aligned}\theta_j:=\theta_j-\alpha\frac{\partial}{\partial\theta_j}J(\theta_0,\theta_1)\end{aligned} \\
 \begin{aligned}  \} (\text{for }j=1\text{ and }j=0)\end{aligned} 
-\end{gathered}
 $$
 
 Repeat until convergence:
