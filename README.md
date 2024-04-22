@@ -24,6 +24,16 @@ CopyRight: Zhu Shatong , Tongji University
 6. L1正则化 L1 Regularization（也就是Lasso Regression，应对多变量的过拟合）
 
 
+## 🌟 支持我们！
+
+如果你对项目感兴趣，请给我们一个星标！🌟
+
+你的支持是我们不断进步和创新的最大动力！
+
+[![Stargazers repo roster for @Zhu-Shatong/Building-Linear-Regression-from-Scratch](https://reporoster.com/stars/dark/Zhu-Shatong/Building-Linear-Regression-from-Scratch)](https://github.com/Zhu-Shatong/Building-Linear-Regression-from-Scratch/stargazers)
+
+
+
 
 ## 0. 数据的导入与相关预处理
 
