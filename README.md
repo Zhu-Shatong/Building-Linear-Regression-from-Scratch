@@ -4,9 +4,13 @@ This project is not about using ready-made libraries; it's an exploration into t
 
 这个项目不是关于使用现成的库，而是对驱动线性回归的核心原则的一次探索。我们从基础数学开始，逐步构建出一个功能完善的线性回归模型。这种实践方法专为那些希望深入理解机器学习中最基本算法之一的复杂性的学习者和爱好者设计。深入体验前所未有的线性回归！
 
-If you find the code helpful, please give me a Star.
+## 🌟 支持我们！
 
-如果觉得代码对你有帮助，请给我一个Star.
+如果你对项目感兴趣，请给我们一个星标！🌟
+
+你的支持是我们不断进步和创新的最大动力！
+
+[![Stargazers repo roster for @Zhu-Shatong/Building-Linear-Regression-from-Scratch](https://reporoster.com/stars/dark/Zhu-Shatong/Building-Linear-Regression-from-Scratch)](https://github.com/Zhu-Shatong/Building-Linear-Regression-from-Scratch/stargazers)
 
 
 
@@ -23,14 +27,6 @@ CopyRight: Zhu Shatong , Tongji University
 5. 多变量线性回归 Multivariate Linear Regression（在特征方面进行了改进，拓展到多个特征）
 6. L1正则化 L1 Regularization（也就是Lasso Regression，应对多变量的过拟合）
 
-
-## 🌟 支持我们！
-
-如果你对项目感兴趣，请给我们一个星标！🌟
-
-你的支持是我们不断进步和创新的最大动力！
-
-[![Stargazers repo roster for @Zhu-Shatong/Building-Linear-Regression-from-Scratch](https://reporoster.com/stars/dark/Zhu-Shatong/Building-Linear-Regression-from-Scratch)](https://github.com/Zhu-Shatong/Building-Linear-Regression-from-Scratch/stargazers)
 
 
 
